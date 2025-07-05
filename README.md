@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lifenwork
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in ML, AI, Data Science
 - 🌱 I’m currently pursuing BCA
 - 💞️ I’m looking to collaborate on ML projects
